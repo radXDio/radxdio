@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **radXDio/radxdio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# hey, i'm miracle 👋
+
+i'm a developer passionate about building scalable web and blockchain applications.
+
+---
+
+## tech stack
+
+- **web development:** Django, nextJS
+- **databases:** PostgreSQL, MySQL, redis
+- **blockchain:** solidity, ethereum
+- **smart contract testing:** foundry
+- **IT and cybersecurity:** penetration testing, bash
+
+<div>
+    <p>
+        [!]
+    </p>
+</div>
