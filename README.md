@@ -116,7 +116,9 @@ root@miracle:~$ cat /etc/motd
 
 <br><br>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4770389" style='border:none;'></iframe>
+<a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4770389">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" height="38" />
+</a>
 
 <sub>TryHackMe</sub>
 
